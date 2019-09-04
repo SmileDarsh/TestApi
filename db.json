@@ -1,0 +1,22 @@
+{
+    "HttpStatusCode": 200,
+    "Message": "Success",
+    "Data": null,
+    "DataList": [
+		{
+		"SelectEVoucherID":1,
+		"XEVoucherID":2,
+		"XEVoucherSignle":3,
+		"FK_ChainID":1,
+		"XEVoucherType":1,
+		"XEVoucherValue":2,
+		"XEVoucherStartDate":"",
+		"XEVoucherEndDate":"",
+		"XEVoucherDescription":"get 25 % offer",
+		"XEVoucherDescriptionAr":احصل على 25 % خصم",
+		"XEVoucherNoOfUsage":0,
+		"XEVoucherChangeDate":"",
+		"LastModifiedDate":"",
+		}
+	]
+}
